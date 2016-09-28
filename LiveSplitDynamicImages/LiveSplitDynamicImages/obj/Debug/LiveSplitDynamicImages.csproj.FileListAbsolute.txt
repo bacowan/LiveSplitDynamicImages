@@ -1,0 +1,13 @@
+c:\users\brendan\documents\visual studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\obj\Debug\LiveSplitDynamicImages.Settings.resources
+c:\users\brendan\documents\visual studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\obj\Debug\LiveSplitDynamicImages.csproj.GenerateResource.Cache
+c:\users\brendan\documents\visual studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\bin\Debug\LiveSplitDynamicImages.dll
+c:\users\brendan\documents\visual studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\bin\Debug\LiveSplitDynamicImages.pdb
+c:\users\brendan\documents\visual studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\bin\Debug\LiveSplit.Core.dll
+c:\users\brendan\documents\visual studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\bin\Debug\UpdateManager.dll
+c:\users\brendan\documents\visual studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\obj\Debug\LiveSplitDynamicImages.dll
+c:\users\brendan\documents\visual studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\obj\Debug\LiveSplitDynamicImages.pdb
+c:\users\brendan\documents\visual studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\obj\Debug\LiveSplitDynamicImages.Properties.Resources.resources
+C:\Users\Brendan\Documents\Visual Studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\obj\Debug\LiveSplitDynamicImages.SingleTransitionSettings.resources
+C:\Users\Brendan\Documents\Visual Studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\obj\Debug\LiveSplitDynamicImages.ImageBrowseAndTest.resources
+C:\Users\Brendan\Documents\Visual Studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\obj\Debug\LiveSplitDynamicImages.MiscTransitionSettings.resources
+C:\Users\Brendan\Documents\Visual Studio 2015\Projects\LiveSplitDynamicImages\LiveSplitDynamicImages\obj\Debug\LiveSplitDynamicImages.csprojResolveAssemblyReference.cache
